@@ -514,7 +514,7 @@
 				AIoChMB0
 				</data>
 				<key>MatchOS</key>
-				<string>10.14.4,10.14.5,10.15,10.15.1</string>
+				<string>10.14.4,10.14.5,10.15,10.15.1,10.15.7</string>
 				<key>Replace</key>
 				<data>
 				AIoChMDr
