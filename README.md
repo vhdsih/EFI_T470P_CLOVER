@@ -2,9 +2,15 @@
 
 
 
-new update at 20210129：
+new update at 20210130:
 
-update clover to r5119, update kext, tested on 10.15.7.
+using  the most appropriate trackpad driver.
+
+
+
+update at 20210129：
+
+update clover to r5119, update kext, tested on 10.15.7. intel wifi 、bluetooth work fine. 
 
 
 

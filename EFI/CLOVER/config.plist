@@ -305,7 +305,7 @@
 				<key>framebuffer-con2-pipe</key>
 				<data>EgAAAA==</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>AAAAYA==</data>
+				<integer>2147483648</integer>
 				<key>framebuffer-con2-flags</key>
 				<data>hwEAAA==</data>
 				<key>framebuffer-con1-flags</key>
