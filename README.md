@@ -1,4 +1,15 @@
 # EFI_T470P_CLOVER
+
+
+
+new update at 20210129：
+
+update clover to r5119, update kext, tested on 10.15.7.
+
+
+
+============ 分割线 ============
+
 #### T470P黑苹果EFI文件，10.15.1安装测试通过<br/>
 - 机型：Lenovo T470p 20J6A01ACD，CPU：Intel i7 7700HQ，核显：HD 630<br/>
 - 加装了M.2 2242 SSD 512GB 建兴T11<br/>
