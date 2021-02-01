@@ -1,8 +1,10 @@
 # EFI_T470P_CLOVER
 
+new update at 20200201:
+add ethernet driver
 
 
-new update at 20210130:
+update at 20210130:
 
 using  the most appropriate trackpad driver.
 
